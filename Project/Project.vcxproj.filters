@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="부산헹.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
